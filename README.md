@@ -15,6 +15,7 @@ Command Fromat:
 	value=anyvalue for read and config
 
 Usage:
+	
 	sc=0:7,1:6,2:5,3:4
 	sw=0:120,3:90
 	key is always a pin number.
